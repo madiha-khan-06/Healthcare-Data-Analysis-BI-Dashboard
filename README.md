@@ -295,7 +295,7 @@ This project helps organizations:
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/madiha-khan-06/Healthcare-Data-Analysis-BI-Dashboard.git
 ```
 
 ---
@@ -329,7 +329,7 @@ Healthcare Data Analysis.sql
 ### 📂 Repository Link
 
 ```bash
-https://github.com/YOUR_USERNAME/YOUR_REPOSITORY
+https://github.com/madiha-khan-06/Healthcare-Data-Analysis-BI-Dashboard.git
 ```
 
 ---
