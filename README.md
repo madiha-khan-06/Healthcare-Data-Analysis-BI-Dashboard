@@ -166,25 +166,22 @@ Detailed drill-through dashboard providing patient-level insights.
 
 ## 🔹 Executive Dashboard
 
-<p align="center">
-<img width="100%" src="YOUR_DASHBOARD_SCREENSHOT_1"/>
-</p>
+<img width="1292" height="724" alt="Screenshot 2026-05-21 142815" src="https://github.com/user-attachments/assets/ebe95772-cc99-463b-a7b7-c2bd801582dc" />
+
 
 ---
 
 ## 🔹 Healthcare Insights Dashboard
 
-<p align="center">
-<img width="100%" src="YOUR_DASHBOARD_SCREENSHOT_2"/>
-</p>
+<img width="1274" height="711" alt="Screenshot 2026-05-21 142835" src="https://github.com/user-attachments/assets/8d4af2cb-8b64-4458-8cc1-0e7a346fd6f3" />
+
 
 ---
 
 ## 🔹 Patient Details Dashboard
 
-<p align="center">
-<img width="100%" src="YOUR_DASHBOARD_SCREENSHOT_3"/>
-</p>
+<img width="1280" height="724" alt="Screenshot 2026-05-21 142858" src="https://github.com/user-attachments/assets/b5feaf83-5fbd-421a-ad0b-957de8174da4" />
+
 
 ---
 
